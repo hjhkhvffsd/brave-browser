@@ -1,8 +1,33 @@
-.. Copyright (c) 2020 Brave Software
+.. Copyright (c) 2018 Brave Software
+
 
 .. _rs_welcome:
 
-Brave browser documentation
----------------------------
+Welcome to Brave Docs
+---------------------
 
-This page has now moved to `brave.com/linux <https://brave.com/linux>`_
+The next generation Brave desktop browser for macOS, Windows, and Linux.
+
+.. _rs_community:
+
+Brave Community Resources
+-------------------------
+* `community.brave.com <https://community.brave.com/>`_
+* :doc:`/docs` process
+
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   installing-brave
+   build-instructions
+   docs
+
+Indices and tables
+------------------
+
+* :ref:`genindex`
+* :ref:`search`
